@@ -8,7 +8,7 @@ I'm also familiar with Adobe XD, Adobe Photoshop, & Adobe Illustrator to design 
 
 ### About me
 - 💼 I’m currently working as a Product Owner at [RevivaLTV](https://github.com/orgs/Revival-Dev/)
-- 📫 You can reach me via email at **aku@dianpratama.com**
+- 📫 You can reach me via email at **me@diantama.dev**
 - 🎯 You can hire me for your project at [Upwork](https://www.upwork.com/freelancers/~01883d85e8bfe8642e)
 
 ### Connect with me.
