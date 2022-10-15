@@ -1,10 +1,5 @@
 # Hi 👋, I'm Dian Pratama 
-Full-Stack Web Developer & Web Designer with 5 years+ experience from Jakarta, Indonesia. I have worked with multiple big companies in the past, like Tencent Games, Moonton, Supercell, etc. And I hope that I can work for you next.
-
-My skills are mainly in Full-Stack Web Development & Web Design. I can create a beautiful & modern website according to client/company needs.
-
-I have a knowledge in Laravel + Livewire, PHP, HTML, CSS, JS, MySQL & WordPress.
-I'm also familiar with Adobe XD, Adobe Photoshop, & Adobe Illustrator to design my UI. for addition; I also know Linux Server, so that I can also handle the technical stuff.
+Product Manager / Full-Stack Web Developer with five years of extensive experience in web development, UI design, and product management specializing in building exceptional digital experiences for your business needs. And proven understanding of building scalable products using scrum / agile methodologies.
 
 ### About me
 - 💼 I’m currently working as a Product Owner at [RevivaLTV](https://github.com/orgs/Revival-Dev/)
