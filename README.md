@@ -2,7 +2,7 @@
 Product Manager / Full-Stack Web Developer with five years of extensive experience in web development, UI design, and product management specializing in building exceptional digital experiences for your business needs. And proven understanding of building scalable products using scrum / agile methodologies.
 
 ### About me
-- 💼 I’m currently working as a Product Owner at [RevivaLTV](https://github.com/orgs/Revival-Dev/)
+- 💼 I’m currently working as a Product Owner at [Peoplyee Tech Indonesia](https://github.com/peoplyee)
 - 📫 You can reach me via email at **me@diantama.dev**
 - 🎯 You can hire me for your project at [Upwork](https://www.upwork.com/freelancers/~01883d85e8bfe8642e)
 
